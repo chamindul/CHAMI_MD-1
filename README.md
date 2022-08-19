@@ -22,13 +22,13 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/CHAMI-MD-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By CHAMI-MD>| © | Reserved  </br> 
  
  ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
