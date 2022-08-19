@@ -30,7 +30,6 @@
 
 <p align="center">By CHAMI-MD>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@KINGCHAMI/CHAMI-MD-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -47,4 +46,3 @@
 * [`CHAMI-MD`](https://github.com/KINGCHAMI)
 
 ## Thanks To
-* [
