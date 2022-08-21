@@ -2,7 +2,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## Thanks To : [`KING_CHAMI`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`KING_CHAMI`](https://github.com/KINGCHAMI)
 
 # Support Group <a href="https://chat.whatsapp.com/G9FhQY1Rqwp5o8qIqIycrn"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -22,7 +22,7 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/CHAMI-MD-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/CHAMI-MD-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
