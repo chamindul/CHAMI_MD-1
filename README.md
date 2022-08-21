@@ -1,6 +1,6 @@
 # CHAMI-MD
 #### TOTAL REPO VIEWS📍
-![Visitor Count](<h3 align="center">WHATSAPP BOT</h3>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingchami&label=Profile%20views&color=0e75b6&style=flat" alt="kingchami" /> </p>
 
 ## Thanks To : [`KING_CHAMI`](https://github.com/KINGCHAMI)
 
