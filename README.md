@@ -1,6 +1,6 @@
 # CHAMI-MD
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](<h3 align="center">WHATSAPP BOT</h3>)
 
 ## Thanks To : [`KING_CHAMI`](https://github.com/KINGCHAMI)
 
