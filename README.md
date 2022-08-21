@@ -46,3 +46,7 @@
 * [`CHAMI-MD`](https://github.com/KINGCHAMI)
 
 ## Thanks To
+
+
+
+**හදලා ඉවර නෑ .දැන්ම හදන්න එපා**
